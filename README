@@ -1,0 +1,20 @@
+# Introduction
+
+Used to calculate YTD gains and losses for transactions.
+
+Steps to use:
+
+
+
+1. Export data to CSV file. 
+
+Current format is:
+avg_price | created_at | fees | qty | buy/sell | simple_name | symbol
+
+
+2. Change TAX_YEAR to current year
+
+3. Save file as "gains-losses-{TAX_YEAR}.csv"
+
+4. run `python3 capital-gains.py`
+
