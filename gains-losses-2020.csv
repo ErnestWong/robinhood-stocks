@@ -1,0 +1,296 @@
+avg_price,created_at,fees,qty,side,simple_name,symbol,type
+10.796,"30th Oct 2017, 3:19:26 pm",0,5,buy,AMD,AMD,market
+325.8,"31st Oct 2017, 12:40:56 pm",0,1,buy,Tesla,TSLA,market
+183.69,"31st Oct 2017, 1:18:50 pm",0,1,buy,Alibaba,BABA,market
+264.88,"31st Oct 2017, 1:21:14 pm",0,1,buy,Broadcom,AVGO,market
+307,"6th Nov 2017, 9:30:11 am",0,3,buy,Tesla,TSLA,market
+55.93,"6th Nov 2017, 9:30:12 am",0,1,buy,Starbucks,SBUX,market
+11.73,"6th Nov 2017, 9:35:21 am",0,12,buy,AMD,AMD,market
+217.68,"10th Nov 2017, 2:20:16 pm",0,2,buy,NVIDIA,NVDA,market
+196.98,"27th Dec 2017, 9:30:00 am",0.02,2,sell,NVIDIA,NVDA,market
+10.45,"27th Dec 2017, 9:30:00 am",0.02,17,sell,AMD,AMD,market
+57.19,"27th Dec 2017, 9:30:01 am",0.02,1,sell,Starbucks,SBUX,market
+258.84,"27th Dec 2017, 9:30:01 am",0.02,1,sell,Broadcom,AVGO,market
+172.18,"27th Dec 2017, 9:30:01 am",0.02,1,sell,Alibaba,BABA,market
+316.21,"27th Dec 2017, 9:30:01 am",0.04,4,sell,Tesla,TSLA,market
+248,"20th Feb 2018, 9:30:02 am",0,3,buy,Arista,ANET,market
+180.08,"28th Feb 2018, 10:50:08 am",0,3,buy,Apple,AAPL,market
+1119.45,"28th Feb 2018, 10:51:13 am",0,1,buy,Alphabet Class A,GOOGL,market
+323.76,"7th Mar 2018, 10:04:46 am",0,1,buy,Tesla,TSLA,market
+74.28,"7th Mar 2018, 10:06:25 am",0,2,buy,Best Buy,BBY,market
+225.8,"8th Mar 2018, 9:31:31 am",0,1,buy,UnitedHealth,UNH,market
+1550.3,"8th Mar 2018, 9:32:32 am",0,1,buy,Amazon,AMZN,market
+321.5,"9th Mar 2018, 9:30:01 am",0,1,buy,Netflix,NFLX,market
+104.1,"9th Mar 2018, 11:36:56 am",0,2,buy,Disney,DIS,market
+193.99,"13th Mar 2018, 9:30:06 am",0,2,buy,Alibaba,BABA,market
+95.18,"14th Mar 2018, 9:30:00 am",0,1,buy,Microsoft,MSFT,market
+167.5,"20th Mar 2018, 9:30:01 am",0,1,buy,Facebook,FB,market
+187,"23rd Mar 2018, 9:30:07 am",0,1,buy,Alibaba,BABA,market
+316.28,"26th Mar 2018, 2:38:03 pm",0,1,buy,Netflix,NFLX,market
+108.19,"28th Mar 2018, 9:30:05 am",0,2,buy,JPMorgan Chase,JPM,market
+261.37,"9th Apr 2018, 9:30:00 am",0,2,buy,SPDR S&P 500 ETF,SPY,market
+85.46,"9th Apr 2018, 9:30:02 am",0,5,buy,Nasdaq,NDAQ,market
+85.94,"19th Apr 2018, 9:30:00 am",0,2,buy,Nasdaq,NDAQ,market
+85.94,"19th Apr 2018, 9:30:00 am",0,2,buy,Nasdaq,NDAQ,market
+267.15,"20th Apr 2018, 1:48:19 pm",0,2,buy,SPDR S&P 500 ETF,SPY,market
+263.51,"1st May 2018, 9:44:46 am",0,1,buy,SPDR S&P 500 ETF,SPY,market
+13.92,"1st May 2018, 9:45:09 am",0,5,buy,GE,GE,market
+190.51,"25th May 2018, 10:59:33 am",0,2,buy,Mastercard,MA,market
+131.49,"25th May 2018, 11:00:06 am",0,3,buy,Visa,V,market
+29.5,"5th Jun 2018, 9:30:00 am",0,10,buy,iQIYI,IQ,market
+29,"7th Jun 2018, 9:30:00 am",0,1,buy,iQIYI,IQ,market
+31.85,"7th Jun 2018, 9:30:56 am",0,5,buy,Canopy Growth,CGC,market
+254.14,"13th Jun 2018, 9:30:00 am",0.02,1,sell,UnitedHealth,UNH,market
+35.02,"13th Jun 2018, 9:30:00 am",0.02,2,sell,iQIYI,IQ,market
+276.59,"13th Jun 2018, 9:30:00 am",0.02,2,sell,Arista,ANET,market
+95.4,"13th Jun 2018, 9:30:02 am",0.02,2,sell,Nasdaq,NDAQ,market
+65.99,"13th Jun 2018, 10:17:56 am",0,5,buy,Baozun,BZUN,market
+40.49,"15th Jun 2018, 9:30:02 am",0,2,buy,iQIYI,IQ,market
+44.49,"15th Jun 2018, 9:30:02 am",0,8,buy,HUYA,HUYA,market
+45,"18th Jun 2018, 9:30:01 am",0,5,buy,JD.com,JD,market
+41.65,"20th Jun 2018, 1:19:05 pm",0,2,buy,JD.com,JD,market
+415.8,"9th Jul 2018, 9:30:01 am",0.02,1,sell,Netflix,NFLX,market
+44.51,"10th Jul 2018, 9:30:00 am",0,3,buy,Coca-Cola,KO,market
+29.1,"10th Jul 2018, 9:30:00 am",0,3,buy,Chegg,CHGG,market
+47.37,"10th Jul 2018, 9:30:00 am",0,2,buy,HSBC,HSBC,market
+66.03,"10th Jul 2018, 9:30:44 am",0,1,buy,Square,SQ,market
+32.16,"10th Jul 2018, 9:50:08 am",0.02,1,sell,HUYA,HUYA,market
+57.53,"11th Jul 2018, 10:17:15 am",0,1,buy,Baozun,BZUN,market
+21.66,"13th Jul 2018, 9:30:00 am",0,4,buy,Cato,CATO,market
+32.32,"13th Jul 2018, 9:30:56 am",0,1,buy,L Brands,LB,market
+15.89,"16th Jul 2018, 11:34:34 am",0,20,buy,Funko,FNKO,market
+347,"17th Jul 2018, 9:30:01 am",0,1,buy,Netflix,NFLX,market
+36.28,"17th Jul 2018, 10:34:52 am",0,2,buy,iQIYI,IQ,market
+360.66,"18th Jul 2018, 11:19:42 am",0,1,buy,Boeing,BA,market
+379.3,"18th Jul 2018, 11:20:32 am",0,1,buy,Netflix,NFLX,market
+37.19,"19th Jul 2018, 9:30:00 am",0,1,buy,JD.com,JD,market
+208.85,"20th Jul 2018, 9:30:00 am",0.02,1,sell,Facebook,FB,market
+277,"20th Jul 2018, 9:30:01 am",0.02,1,sell,Arista,ANET,market
+175.33,"26th Jul 2018, 9:30:05 am",0,2,buy,Facebook,FB,market
+26.16,"26th Jul 2018, 12:11:42 pm",0.02,4,sell,Cato,CATO,market
+193.67,"26th Jul 2018, 1:12:32 pm",0,1,buy,Spotify,SPOT,market
+72.69,"31st Jul 2018, 11:27:00 am",0,3,buy,Atlassian,TEAM,market
+31.8457,"31st Jul 2018, 11:28:19 am",0,7,buy,Twitter,TWTR,market
+19.58,"9th Aug 2018, 12:46:52 pm",0.02,5,sell,Funko,FNKO,market
+35.97,"10th Aug 2018, 4:39:18 pm",0,1,buy,JD.com,JD,market
+32.38,"10th Aug 2018, 4:39:39 pm",0,2,buy,HUYA,HUYA,market
+3.82,"11th Aug 2018, 3:38:26 am",0,1,buy,Zynga,ZNGA,referral
+4.06,"22nd Aug 2018, 9:50:55 am",0,1,buy,Zynga,ZNGA,referral
+22.78,"23rd Aug 2018, 11:41:15 am",0.02,3,sell,Funko,FNKO,market
+112.67,"29th Aug 2018, 12:41:51 pm",0.02,2,sell,Disney,DIS,market
+31.58,"29th Aug 2018, 12:42:12 pm",0.02,3,sell,Chegg,CHGG,market
+28.8,"29th Aug 2018, 12:43:08 pm",0.02,3,sell,HUYA,HUYA,market
+32.1,"29th Aug 2018, 12:43:23 pm",0.02,2,sell,JD.com,JD,market
+57.55,"29th Aug 2018, 12:43:40 pm",0.02,2,sell,Baozun,BZUN,market
+46.12,"29th Aug 2018, 1:26:04 pm",0,6,buy,Tencent,TCEHY,market
+6.958,"29th Aug 2018, 1:28:00 pm",0,10,buy,Aurora Cannabis,ACB,market
+32.93,"29th Aug 2018, 1:28:34 pm",0,9,buy,BMW,BMWYY,market
+96.58,"5th Sep 2018, 9:30:00 am",0.02,1,sell,Nasdaq,NDAQ,market
+55.56,"5th Sep 2018, 9:30:39 am",0.02,1,sell,Canopy Growth,CGC,market
+28.11,"10th Sep 2018, 9:30:04 am",0,6,buy,AMD,AMD,market
+15.54,"14th Sep 2018, 5:55:03 pm",0,30,buy,Cypress Semiconductor,CY,market
+5.59,"23rd Sep 2018, 2:44:27 am",0,1,buy,Denbury,DNRCQ,referral
+6.14,"27th Sep 2018, 4:37:04 pm",0.02,1,sell,Denbury,DNRCQ,market
+138.26,"1st Oct 2018, 9:30:00 am",0,1,buy,Johnson & Johnson,JNJ,market
+33.66,"1st Oct 2018, 9:30:05 am",0,3,buy,AT&T,T,market
+33.66,"1st Oct 2018, 9:30:05 am",0,8,buy,AT&T,T,market
+248.06,"25th Oct 2018, 3:56:20 pm",0,4,buy,Vanguard S&P 500 ETF,VOO,market
+143.6,"3rd Dec 2018, 9:30:00 am",0,8,buy,Vanguard Total Stock Market ETF,VTI,market
+257.62,"3rd Dec 2018, 9:30:01 am",0,4,buy,Vanguard S&P 500 ETF,VOO,market
+127.17,"21st Dec 2018, 10:48:42 am",0,2,buy,Vanguard Total Stock Market ETF,VTI,market
+12.57,"25th Jan 2019, 9:31:27 am",0,14,buy,PG&E,PCG,limit
+13.88,"28th Jan 2019, 1:24:02 pm",0.02,15,sell,Cypress Semiconductor,CY,market
+13.89,"28th Jan 2019, 1:24:33 pm",0.02,5,sell,Cypress Semiconductor,CY,market
+13.89,"28th Jan 2019, 1:24:41 pm",0.02,10,sell,Cypress Semiconductor,CY,market
+4.39,"28th Jan 2019, 1:25:16 pm",0.02,2,sell,Zynga,ZNGA,market
+34.02,"28th Jan 2019, 1:25:40 pm",0.02,2,sell,Baozun,BZUN,market
+19.392,"28th Jan 2019, 1:25:59 pm",0.02,5,sell,iQIYI,IQ,market
+332.09,"28th Jan 2019, 1:26:37 pm",0.02,1,sell,Netflix,NFLX,market
+23.92,"28th Jan 2019, 1:27:01 pm",0.02,1,sell,JD.com,JD,market
+21.065,"28th Jan 2019, 1:27:12 pm",0.02,2,sell,HUYA,HUYA,market
+17.2333,"28th Jan 2019, 1:28:09 pm",0.02,6,sell,Funko,FNKO,market
+28.24,"28th Jan 2019, 1:29:43 pm",0.02,1,sell,BMW,BMWYY,market
+19.38,"28th Jan 2019, 1:31:29 pm",0.02,2,sell,iQIYI,IQ,market
+1084.27,"28th Jan 2019, 1:31:45 pm",0,1,buy,Alphabet Class A,GOOGL,market
+104.04,"6th Feb 2019, 1:27:08 pm",0.02,2,sell,Atlassian,TEAM,market
+18.23,"19th Feb 2019, 3:26:48 pm",0.02,14,sell,PG&E,PCG,market
+39,"22nd Apr 2019, 9:32:45 am",0,3,buy,PagerDuty,PD,limit
+45,"2nd May 2019, 9:54:35 am",0,10,buy,PagerDuty,PD,limit
+38.9,"13th May 2019, 9:30:07 am",0,10,buy,Uber,UBER,market
+186.35,"17th May 2019, 11:55:34 am",0.02,2,sell,Facebook,FB,market
+21.6583,"17th May 2019, 11:55:51 am",0.02,6,sell,Funko,FNKO,market
+24.62,"17th May 2019, 11:58:58 am",0.02,4,sell,BMW,BMWYY,market
+23.61,"22nd May 2019, 4:32:09 pm",0.02,1,sell,L Brands,LB,market
+23.83,"22nd May 2019, 4:32:51 pm",0,20,buy,L Brands,LB,market
+355.16,"24th May 2019, 12:12:36 pm",0,1,buy,Boeing,BA,market
+355.5,"24th May 2019, 12:13:12 pm",0,1,buy,Boeing,BA,market
+171.67,"24th May 2019, 12:14:43 pm",0,4,buy,Vertex Pharmaceuticals,VRTX,market
+49.67,"24th May 2019, 12:16:41 pm",0,10,buy,Coca-Cola,KO,market
+106.74,"24th May 2019, 12:16:56 pm",0,4,buy,Procter & Gamble,PG,market
+125.29,"30th May 2019, 12:00:21 pm",0,3,buy,Microsoft,MSFT,market
+49.81,"6th Aug 2019, 12:01:21 pm",0,20,buy,Vanguard Total International Stock ETF,VXUS,market
+35.74,"15th Aug 2019, 11:56:40 am",0,20,buy,HSBC,HSBC,market
+35.74,"15th Aug 2019, 11:57:20 am",0,30,buy,HSBC,HSBC,market
+158.28,"28th Aug 2019, 9:30:01 am",0,2,buy,Beyond Meat,BYND,market
+101.82,"25th Sep 2019, 9:30:01 am",0,25,buy,Nasdaq,NDAQ,market
+30.57,"24th Oct 2019, 3:48:16 pm",0,15,buy,Twitter,TWTR,market
+1804.05,"5th Nov 2019, 12:33:38 pm",0,1,buy,Amazon,AMZN,market
+158.465,"20th Nov 2019, 12:51:16 pm",0,14,buy,Vanguard Total Stock Market ETF,VTI,market
+25.87,"27th Nov 2019, 12:59:05 pm",0,3,sell,PagerDuty,PD,market
+32.7117,"27th Nov 2019, 12:59:48 pm",0,6,sell,JD.com,JD,market
+160.4483,"27th Nov 2019, 1:00:40 pm",0,6,buy,Vanguard Total Stock Market ETF,VTI,market
+42.2877,"4th Dec 2019, 12:33:01 pm",0,30,buy,Vanguard FTSE Emerging Markets Fund,VWO,market
+17.9,"30th Dec 2019, 9:30:00 am",0,4,sell,HUYA,HUYA,market
+164.3,"30th Dec 2019, 9:30:00 am",0,2,buy,Vanguard Total Stock Market ETF,VTI,market
+23.506,"30th Dec 2019, 1:47:01 pm",0,10,sell,PagerDuty,PD,market
+18.6725,"30th Dec 2019, 1:48:34 pm",0,4,sell,Canopy Growth,CGC,market
+33.84,"30th Dec 2019, 1:50:01 pm",0,2,sell,Baozun,BZUN,market
+21.3617,"30th Dec 2019, 1:51:05 pm",0,6,sell,iQIYI,IQ,market
+1.905,"30th Dec 2019, 1:52:24 pm",0,10,sell,Aurora Cannabis,ACB,market
+11.06,"30th Dec 2019, 1:53:38 pm",0,5,sell,GE,GE,market
+29.775,"30th Dec 2019, 1:54:36 pm",0,2,sell,Uber,UBER,market
+55.6852,"6th Jan 2020, 3:31:45 pm",0,25,buy,Vanguard Total International Stock ETF,VXUS,market
+165.095,"27th Jan 2020, 1:53:06 pm",0,4,buy,Vanguard Total Stock Market ETF,VTI,market
+298.28,"27th Jan 2020, 1:53:31 pm",0,1,buy,Vanguard S&P 500 ETF,VOO,market
+913.27,"4th Feb 2020, 12:39:16 pm",0.02,1,sell,Tesla,TSLA,market
+37.66,"7th Feb 2020, 9:30:13 am",0,11,sell,Twitter,TWTR,market
+36.4318,"12th Feb 2020, 12:28:48 pm",0,11,sell,Twitter,TWTR,market
+186.685,"18th Feb 2020, 1:04:29 pm",0,4,buy,Microsoft,MSFT,market
+171.12,"18th Feb 2020, 1:04:54 pm",0,10,buy,Vanguard Total Stock Market ETF,VTI,market
+30.49,"18th Feb 2020, 3:54:36 pm",0,10,buy,Virgin Galactic Holdings,SPCE,market
+162.416,"25th Feb 2020, 11:40:37 am",0,5,buy,Vanguard Total Stock Market ETF,VTI,market
+146.42,"28th Feb 2020, 9:30:02 am",0,4,buy,Vanguard Total Stock Market ETF,VTI,market
+154.404,"4th Mar 2020, 11:08:32 am",0,5,buy,Vanguard Total Stock Market ETF,VTI,market
+300.54,"5th Mar 2020, 3:24:36 pm",0,3,buy,SPDR S&P 500 ETF,SPY,market
+141.69,"9th Mar 2020, 1:14:49 pm",0,1,buy,Vanguard Total Stock Market ETF,VTI,market
+140,"10th Mar 2020, 2:24:47 pm",0,7,buy,Vanguard Total Stock Market ETF,VTI,market
+277.39,"10th Mar 2020, 2:25:16 pm",0,5,buy,SPDR S&P 500 ETF,SPY,market
+21.176,"13th Mar 2020, 12:01:59 pm",0,10,buy,Cheesecake Factory,CAKE,market
+60.724,"13th Mar 2020, 12:02:20 pm",0,5,buy,Darden Restaurants,DRI,market
+21.559,"13th Mar 2020, 12:02:50 pm",0,40,buy,Cedar Fair,FUN,market
+11.181,"13th Mar 2020, 12:03:19 pm",0,50,buy,Dave & Buster's,PLAY,market
+117.394,"18th Mar 2020, 12:49:47 pm",0,5,buy,Vanguard Total Stock Market ETF,VTI,market
+17.65,"26th Mar 2020, 12:37:50 pm",0,15,sell,Dave & Buster's,PLAY,market
+20.23,"26th Mar 2020, 12:38:19 pm",0,5,buy,Cheesecake Factory,CAKE,market
+129.63,"26th Mar 2020, 12:39:56 pm",0,3,buy,Vanguard Total Stock Market ETF,VTI,market
+258.24,"26th Mar 2020, 12:40:13 pm",0,2,buy,SPDR S&P 500 ETF,SPY,market
+29.93,"30th Mar 2020, 3:00:35 pm",0,10,buy,United Airlines,UAL,market
+12.4085,"30th Mar 2020, 3:00:49 pm",0,20,buy,American Airlines,AAL,market
+22.18,"30th Mar 2020, 3:01:30 pm",0,20,buy,Bank of America,BAC,market
+236.96,"6th Apr 2020, 9:30:00 am",0,3,buy,Vanguard S&P 500 ETF,VOO,market
+128.43,"6th Apr 2020, 9:30:01 am",0,5,buy,Vanguard Total Stock Market ETF,VTI,market
+99.89,"6th Apr 2020, 9:30:02 am",0,5,buy,Nasdaq,NDAQ,market
+254.92,"7th Apr 2020, 11:48:27 am",0.02,3,sell,Vertex Pharmaceuticals,VRTX,market
+1202.49,"8th Apr 2020, 1:20:28 pm",0,1,buy,Alphabet Class A,GOOGL,market
+32.63,"13th Apr 2020, 9:30:00 am",0,30,buy,United Airlines,UAL,market
+25.06,"13th Apr 2020, 9:30:11 am",0,40,buy,Delta Air Lines,DAL,market
+26.6,"13th Apr 2020, 9:30:15 am",0,20,buy,HSBC,HSBC,market
+137.67,"15th Apr 2020, 12:14:38 pm",0,5,buy,Vanguard Total Stock Market ETF,VTI,market
+445.76,"16th Apr 2020, 10:50:00 am",0,1,sell,Netflix,NFLX,market
+75.07,"16th Apr 2020, 10:57:50 am",0,2,sell,Beyond Meat,BYND,market
+141.36,"23rd Apr 2020, 12:12:53 pm",0,5,buy,Vanguard Total Stock Market ETF,VTI,market
+141.33,"4th May 2020, 2:12:15 pm",0,6,buy,Vanguard Total Stock Market ETF,VTI,market
+24.73,"4th May 2020, 2:12:44 pm",0,5,buy,United Airlines,UAL,market
+22.648,"4th May 2020, 2:13:31 pm",0,10,buy,Bank of America,BAC,market
+148.08,"12th May 2020, 9:30:00 am",0,5,buy,Vanguard Total Stock Market ETF,VTI,market
+152.406,"26th May 2020, 2:25:12 pm",0,5,buy,Vanguard Total Stock Market ETF,VTI,market
+35.2625,"26th May 2020, 2:25:45 pm",0.02,20,sell,Cedar Fair,FUN,market
+158.358,"3rd Jun 2020, 3:08:04 pm",0,5,buy,Vanguard Total Stock Market ETF,VTI,market
+25.4398,"5th Jun 2020, 2:23:16 pm",0,40,buy,Six Flags,SIX,market
+120.01,"5th Jun 2020, 2:24:44 pm",0,5,buy,Nasdaq,NDAQ,market
+1.29,"5th Jun 2020, 2:30:18 pm",0,200,buy,Callon Petroleum,CPE,market
+2.44,"8th Jun 2020, 12:55:06 pm",0.01,100,sell,Callon Petroleum,CPE,market
+321.5767,"9th Jun 2020, 3:04:23 pm",0,3,buy,SPDR S&P 500 ETF,SPY,market
+158.21,"16th Jun 2020, 12:24:50 pm",0,5,buy,Vanguard Total Stock Market ETF,VTI,market
+117.9875,"16th Jun 2020, 12:25:16 pm",0,8,buy,Nasdaq,NDAQ,market
+314.1,"19th Jun 2020, 9:30:01 am",0,2,buy,SPDR S&P 500 ETF,SPY,market
+157.83,"22nd Jun 2020, 12:28:25 pm",0,5,buy,Vanguard Total Stock Market ETF,VTI,market
+79.0992,"22nd Jun 2020, 12:30:23 pm",0,13,buy,iShares Dow Jones US Real Estate ETF,IYR,market
+152.7,"29th Jun 2020, 9:30:00 am",0,6,buy,Vanguard Total Stock Market ETF,VTI,market
+77.67,"29th Jun 2020, 12:24:22 pm",0,15,buy,iShares Dow Jones US Real Estate ETF,IYR,market
+42.7589,"6th Jul 2020, 1:58:20 pm",0,18,buy,Vanguard FTSE Emerging Markets Fund,VWO,market
+80.6083,"6th Jul 2020, 1:58:42 pm",0,12,buy,iShares Dow Jones US Real Estate ETF,IYR,market
+3251.06,"13th Jul 2020, 9:30:00 am",0,1,buy,Amazon,AMZN,market
+77.4854,"14th Jul 2020, 1:11:36 pm",0,13,buy,iShares Dow Jones US Real Estate ETF,IYR,market
+159.2357,"14th Jul 2020, 1:11:51 pm",0,7,buy,Vanguard Total Stock Market ETF,VTI,market
+325.64,"21st Jul 2020, 12:20:25 pm",0,4,buy,SPDR S&P 500 ETF,SPY,market
+78.76,"21st Jul 2020, 12:21:24 pm",0,7,buy,iShares Dow Jones US Real Estate ETF,IYR,market
+24.1978,"21st Jul 2020, 12:22:42 pm",0,45,buy,HSBC,HSBC,limit
+163.885,"28th Jul 2020, 12:39:27 pm",0,6,buy,Vanguard Total Stock Market ETF,VTI,market
+80.4683,"28th Jul 2020, 12:39:58 pm",0,12,buy,iShares Dow Jones US Real Estate ETF,IYR,market
+22.835,"28th Jul 2020, 12:40:19 pm",0,20,buy,HSBC,HSBC,market
+322.625,"30th Jul 2020, 11:59:15 am",0,2,buy,SPDR S&P 500 ETF,SPY,market
+128.848,"30th Jul 2020, 11:59:27 am",0,5,buy,Nasdaq,NDAQ,market
+81.88,"4th Aug 2020, 12:59:22 pm",0,10,buy,iShares Dow Jones US Real Estate ETF,IYR,market
+169.34,"7th Aug 2020, 12:09:22 pm",0,7,buy,Vanguard Total Stock Market ETF,VTI,market
+52.258,"7th Aug 2020, 12:09:44 pm",0,20,buy,Vanguard Total International Stock ETF,VXUS,market
+131.6763,"10th Aug 2020, 12:19:13 pm",0,8,buy,Nasdaq,NDAQ,market
+148.06,"10th Aug 2020, 2:16:01 pm",0,7,buy,Johnson & Johnson,JNJ,market
+337.1575,"12th Aug 2020, 11:46:18 am",0,4,buy,SPDR S&P 500 ETF,SPY,market
+48.5,"13th Aug 2020, 9:52:45 am",0,25,buy,Coca-Cola,KO,market
+210.2,"13th Aug 2020, 9:53:24 am",0,4,buy,Microsoft,MSFT,market
+81.95,"17th Aug 2020, 11:28:14 am",0,9,buy,iShares Dow Jones US Real Estate ETF,IYR,market
+130.37,"17th Aug 2020, 11:28:40 am",0,7,buy,Nasdaq,NDAQ,market
+130.96,"26th Aug 2020, 10:22:04 am",0,6,buy,Nasdaq,NDAQ,market
+29.8768,"26th Aug 2020, 1:32:29 pm",0,25,buy,Delta Air Lines,DAL,market
+20.45,"28th Aug 2020, 9:30:01 am",0,50,buy,SSR Mining,SSRM,market
+184.48,"28th Aug 2020, 4:14:26 pm",0,6,buy,SPDR Gold Trust,GLD,market
+177.75,"28th Aug 2020, 4:14:51 pm",0,6,buy,Vanguard Total Stock Market ETF,VTI,market
+322.13,"28th Aug 2020, 4:15:34 pm",0,3,buy,Vanguard S&P 500 ETF,VOO,market
+49.8187,"28th Aug 2020, 4:16:05 pm",0,15,buy,Coca-Cola,KO,market
+82.357,"2nd Sep 2020, 10:52:14 am",0,10,buy,iShares Dow Jones US Real Estate ETF,IYR,market
+428.87,"2nd Sep 2020, 11:51:40 am",0,1,buy,Tesla,TSLA,market
+525.05,"3rd Sep 2020, 12:29:09 pm",0,1,buy,NVIDIA,NVDA,market
+336.74,"8th Sep 2020, 9:30:00 am",0,2,buy,SPDR S&P 500 ETF,SPY,market
+128.81,"8th Sep 2020, 9:30:02 am",0,5,buy,Nasdaq,NDAQ,market
+335.3,"11th Sep 2020, 11:31:34 am",0,3,buy,SPDR S&P 500 ETF,SPY,market
+169.54,"11th Sep 2020, 11:32:24 am",0,5,buy,Vanguard Total Stock Market ETF,VTI,market
+129.184,"16th Sep 2020, 12:21:40 pm",0,5,buy,Nasdaq,NDAQ,market
+184.67,"16th Sep 2020, 12:22:00 pm",0,6,buy,SPDR Gold Trust,GLD,market
+170.1596,"17th Sep 2020, 1:38:50 pm",0,2.938418,buy,Vanguard Total Stock Market ETF,VTI,market
+82.3797,"17th Sep 2020, 1:40:56 pm",0,6.069456,buy,iShares Dow Jones US Real Estate ETF,IYR,market
+182.5249,"17th Sep 2020, 1:50:40 pm",0,2.739352,buy,SPDR Gold Trust,GLD,market
+124.27,"17th Sep 2020, 1:52:14 pm",0,4.023497,buy,Nasdaq,NDAQ,market
+166.6699,"24th Sep 2020, 1:51:49 pm",0,2.999942,buy,Vanguard Total Stock Market ETF,VTI,market
+179.3189,"1st Oct 2020, 1:38:21 pm",0,2.788329,buy,SPDR Gold Trust,GLD,market
+171.675,"1st Oct 2020, 1:39:12 pm",0,2.91248,buy,Vanguard Total Stock Market ETF,VTI,market
+123.9118,"1st Oct 2020, 1:41:10 pm",0,4.035128,buy,Nasdaq,NDAQ,market
+80.5496,"1st Oct 2020, 1:43:29 pm",0,6.207355,buy,iShares Dow Jones US Real Estate ETF,IYR,market
+175.545,"8th Oct 2020, 1:40:23 pm",0,2.848273,buy,Vanguard Total Stock Market ETF,VTI,market
+178.9198,"15th Oct 2020, 2:24:00 pm",0,2.794548,buy,SPDR Gold Trust,GLD,market
+177.4498,"15th Oct 2020, 2:24:36 pm",0,2.817698,buy,Vanguard Total Stock Market ETF,VTI,market
+82.5897,"15th Oct 2020, 2:25:10 pm",0,6.054024,buy,iShares Dow Jones US Real Estate ETF,IYR,market
+128.0303,"15th Oct 2020, 2:26:18 pm",0,3.905326,buy,Nasdaq,NDAQ,market
+175.8199,"22nd Oct 2020, 1:52:37 pm",0,2.843819,buy,Vanguard Total Stock Market ETF,VTI,market
+77.74,"29th Oct 2020, 1:33:40 pm",0,6.431695,buy,iShares Dow Jones US Real Estate ETF,IYR,market
+175.3289,"29th Oct 2020, 1:36:47 pm",0,2.851783,buy,SPDR Gold Trust,GLD,market
+168.88,"29th Oct 2020, 1:36:53 pm",0,2.960682,buy,Vanguard Total Stock Market ETF,VTI,market
+122.8488,"29th Oct 2020, 1:37:30 pm",0,4.070044,buy,Nasdaq,NDAQ,market
+179.56,"5th Nov 2020, 1:37:21 pm",0,2.784585,buy,Vanguard Total Stock Market ETF,VTI,market
+180.44,"12th Nov 2020, 1:33:15 pm",0,2.771004,buy,Vanguard Total Stock Market ETF,VTI,market
+83.785,"12th Nov 2020, 1:34:27 pm",0,5.967655,buy,iShares Dow Jones US Real Estate ETF,IYR,market
+175.995,"12th Nov 2020, 1:35:23 pm",0,2.84099,buy,SPDR Gold Trust,GLD,market
+127.1168,"12th Nov 2020, 1:56:31 pm",0,3.93339,buy,Nasdaq,NDAQ,market
+93.6818,"19th Nov 2020, 1:02:21 pm",0,11,buy,Moderna,MRNA,market
+35.97,"19th Nov 2020, 1:02:42 pm",0,30,buy,Pfizer,PFE,market
+183.5699,"19th Nov 2020, 2:17:16 pm",0,2.723758,buy,Vanguard Total Stock Market ETF,VTI,market
+84.685,"27th Nov 2020, 12:22:47 pm",0,5.904233,buy,iShares Dow Jones US Real Estate ETF,IYR,market
+167.495,"27th Nov 2020, 12:23:31 pm",0,2.985164,buy,SPDR Gold Trust,GLD,market
+127.01,"27th Nov 2020, 12:23:37 pm",0,3.936698,buy,Nasdaq,NDAQ,market
+187.78,"27th Nov 2020, 12:23:46 pm",0,2.66269,buy,Vanguard Total Stock Market ETF,VTI,market
+158.3,"30th Nov 2020, 5:21:50 pm",0.02,4,sell,Moderna,MRNA,limit
+148.3,"1st Dec 2020, 5:44:22 pm",0.02,5,sell,Moderna,MRNA,limit
+189.8096,"3rd Dec 2020, 1:35:10 pm",0,2.634219,buy,Vanguard Total Stock Market ETF,VTI,market
+225.92,"4th Dec 2020, 2:26:32 pm",0,3,buy,Salesforce,CRM,market
+164.97,"8th Dec 2020, 12:53:29 pm",0,1,sell,Moderna,MRNA,market
+172.04,"10th Dec 2020, 1:32:54 pm",0,2.906301,buy,SPDR Gold Trust,GLD,market
+84.1781,"10th Dec 2020, 1:33:26 pm",0,5.939787,buy,iShares Dow Jones US Real Estate ETF,IYR,market
+125.125,"10th Dec 2020, 1:33:57 pm",0,3.996004,buy,Nasdaq,NDAQ,market
+190.4461,"10th Dec 2020, 1:35:25 pm",0,2.625415,buy,Vanguard Total Stock Market ETF,VTI,market
+387.61,"14th Dec 2020, 10:20:52 am",0,1,buy,Zoom,ZM,market
+21.8167,"14th Dec 2020, 10:21:32 am",0,30,buy,Carnival,CCL,market
+215.17,"14th Dec 2020, 10:23:23 am",0,5,buy,Microsoft,MSFT,market
+122.9675,"14th Dec 2020, 10:23:39 am",0,8,buy,Apple,AAPL,market
+532.45,"14th Dec 2020, 10:26:04 am",0,1,buy,NVIDIA,NVDA,market
+7.0681,"15th Dec 2020, 1:35:03 pm",0,100,buy,Kinross Gold,KGC,market
+193.7,"17th Dec 2020, 1:40:08 pm",0,2.581311,buy,Vanguard Total Stock Market ETF,VTI,market

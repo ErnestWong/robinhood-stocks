@@ -1,0 +1,139 @@
+Date,Stock,Buy price,Units,Action,Total
+"Oct 31, 2017",AMD,10.8,5,B,54
+"Oct 31, 2017",Tesla,325,1,B,325
+"Oct 31, 2017",Alibaba,183.69,1,B,183.69
+"Oct 31, 2017",Broadcom,264.88,1,B,264.88
+"Nov 6, 2017",Starbuck,55.93,1,B,55.93
+"Nov 6, 2017",Tesla,307,3,B,921
+"Nov 6, 2017",AMD,11.73,12,B,140.76
+"Nov 10, 2017",NVIDIA,217.68,2,B,435.36
+"Dec 27, 2017",NVIDIA,196.98,2,S,393.96
+"Dec 27, 2017",Starbucks,57.19,1,S,57.19
+"Dec 27, 2017",Broadcom,258.84,1,S,258.84
+"Dec 27, 2017",Alibaba,172.18,1,S,172.18
+"Dec 27, 2017",Tesla,316.21,4,S,1264.84
+"Dec 27, 2017",AMD,10.45,17,S,177.65
+"Feb 20, 2018",Arista,248,3,B,744
+"Feb 28, 2018",Apple,180.08,3,B,540.24
+"Feb 28, 2018",Alphabet,1119.45,1,B,1119.45
+"March 7, 2018",Tesla,323.76,1,B,323.76
+"March 7, 2018",Best Buy,74.28,2,B,148.56
+"March 8, 2018",United Health,225.8,1,B,225.8
+"March 8, 2018",Amazon,1550.3,1,B,1550.3
+"March 9, 2018",Netflix,321.5,1,B,321.5
+"March 9, 2018",Disney,104.1,2,B,208.2
+"March 13, 2018",Alibaba,193.99,2,B,387.98
+"March 14, 2018",Microsoft,95.18,1,B,95.18
+"March 20, 2018",Facebook,167.5,1,B,167.5
+"March 23, 2018",Alibaba,187,1,B,187
+"March 26, 2018",Netflix,316.28,1,B,316.28
+"March 28, 2018",JPMorgan,108.19,2,B,216.38
+"April 9, 2018",SDPR,261.37,2,B,522.74
+"April 9, 2018",Nasdaq,85.46,5,B,427.3
+"April 19, 2018",Nasdaq,85.94,2,B,171.88
+"April 19, 2018",Nasdaq,85.94,2,B,171.88
+"April 20, 2018",SPDR,267.15,2,B,534.3
+"May 1, 2018",SPDR,263.51,1,B,263.51
+"May 1, 2018",GE,13.92,5,B,69.6
+"May 25, 2018",Mastercard,190.51,2,B,381.02
+"May 25, 2018",Visa,131.49,3,B,394.47
+"June 5, 2018",IQIYI,29.5,10,B,295
+"June 7, 2018",Canopy Growth,31.85,5,B,159.25
+"June 7, 2018",IQIYI,29,1,B,29
+"June 13, 2018",IQIYI,35.02,2,S,70.04
+"June 13, 2018",Arista,276.59,2,S,553.18
+"June 13, 2018",United Health,254.14,1,S,254.14
+"June 13, 2018",Nasdaq,95.4,2,S,190.8
+"June 13, 2018",Baozun,65.99,5,B,329.95
+"June 15, 2018",IQIYI,40.49,2,B,80.98
+"June 15, 2018",HUYA,44.49,8,B,355.92
+"June 18, 2018",JD,45,5,B,225
+"June 20, 2018",JD,41.65,2,B,83.3
+"July 9, 2018",Netflix,415.8,1,S,415.8
+"July 10, 2018",Chegg,29.1,3,B,87.3
+"July 10, 2018",Square,66.03,1,B,66.03
+"July 10, 2018",Coca-Cola,44.51,3,B,133.53
+"July 10, 2018",HSBC,47.37,2,B,94.74
+"July 10, 2018",HUYA,32.16,1,S,32.16
+"July 11, 2018",Baozun,57.53,1,B,57.53
+"July 13, 2018",L Brands,32.32,1,B,32.32
+"July 13, 2018",Cato,21.66,4,B,86.64
+"July 16, 2018",Funko,15.89,20,B,317.8
+"July 17, 2018",Netflix,347,1,B,347
+"July 17, 2018",IQIYI,36.28,2,B,72.56
+"July 18, 2018",Beoing,360.66,1,B,360.66
+"July 18, 2018",Netflix,379.3,1,B,379.3
+"July 19, 2018",JD,37.19,1,B,37.19
+"July 20, 2018",Arista,277,1,S,277
+"July 20, 2018",Facebook,208.85,1,S,208.85
+"July 26, 2018",Facebook,175.33,2,B,350.66
+"July 26, 2018",Cato,26.16,4,S,104.64
+"July 26, 2018",Spotify,193.67,1,B,193.67
+"July 31, 2018",Atlassian,72.69,3,B,218.07
+"July 31, 2018",Twitter,31.85,7,B,222.95
+"August 9, 2018",Funko,19.58,5,S,97.9
+"August 10, 2018",JD,35.97,1,B,35.97
+"August 10, 2018",HUYA,32.38,2,B,64.76
+"August 23, 2018",Funko,22.78,3,S,68.34
+"August 29, 2018",Disney,112.67,2,S,225.34
+"August 29, 2018",Chegg,31.58,3,S,94.74
+"August 29, 2018",HUYA,28.8,3,S,86.4
+"August 29, 2018",JD,32.1,2,S,64.2
+"August 29, 2018",Baozun,57.55,2,S,115.1
+"August 29, 2018",Tencent,46.12,6,B,276.72
+"August 29, 2018",Aurora,6.96,10,B,69.6
+"August 29, 2018",BMW,32.93,9,B,296.37
+"September 5, 2018",Nasdaq,96.58,1,S,96.58
+"September 5, 2018",Canopy Growth,55.56,1,S,55.56
+"September 10, 2018",AMD,28.11,6,B,168.66
+"September 14, 2018",Cypress,15.54,30,B,466.2
+"September 27, 2018",Denbury,6.14,1,S,6.14
+"October 1, 2018",AT&T,33.66,3,B,100.98
+"October 1, 2018",AT&T,33.66,8,B,269.28
+"October 1, 2018",Johnson & Johnson,138.26,1,B,138.26
+"October 25, 2018",Vanguard S&P 500,248.06,4,B,992.24
+"December 3, 2018",Vanguard S&P 500,257.62,4,B,1030.48
+"December 3, 2018",Vanguard Total Stock Market ETF,143.6,8,B,1148.8
+"December 21, 2018",Vanguard Total Stock Market ETF,127.17,2,B,254.34
+"January 25, 2019",PG&E,12.57,14,B,175.98
+"January 28, 2019",Cypress,13.88,15,S,208.2
+"January 28, 2019",Cypress,13.89,5,S,69.45
+"January 28, 2019",Cypress,13.89,10,S,138.9
+"January 28, 2019",Zynga,4.39,2,S,8.78
+"January 28, 2019",Baozun,34.02,2,S,68.04
+"January 28, 2019",IQIYI,19.39,5,S,96.95
+"January 28, 2019",Netflix,332.09,1,S,332.09
+"January 28, 2019",JD,23.92,1,S,23.92
+"January 28, 2019",HUYA,21.06,2,S,42.12
+"January 28, 2019",Funko,17.23,6,S,103.38
+"January 28, 2019",BMW,28.24,1,S,28.24
+"January 28, 2019",IQIYI,19.38,2,S,38.76
+"January 28, 2019",Alphabet,1084.27,1,B,1084.27
+"February 6, 2019",Atlassian,104.04,2,S,208.08
+"February 19, 2019",PG&E,18.23,14,S,255.22
+"April 22, 2019",PagerDuty,39,3,B,117
+"May 2, 2019",PagerDuty,45,10,B,450
+"May 13, 2019",Uber,38.9,10,B,389
+"May 17, 2019",Facebook,186.35,2,S,372.7
+"May 17, 2019",Funko,21.66,6,S,129.96
+"May 17, 2019",BMW,24.62,4,S,98.48
+"May 22, 2019",L Brands,23.61,1,S,23.61
+"May 22, 2019",L Brands,23.83,20,B,476.6
+"May 24, 2019",Boeing,355.16,1,B,355.16
+"May 24, 2019",Boeing,355.5,1,B,355.5
+"May 24, 2019",Vertex,171.67,4,B,686.68
+"May 24, 2019",Coca-Cola,49.67,10,B,496.7
+"May 24, 2019",Procter & Gamble,106.74,4,B,426.96
+"May 30, 2019",Microsoft,125.29,3,B,375.87
+"August 6, 2019",Vanguard Total International Stock ETF,49.81,20,B,996.2
+"August 15, 2019",HSBC,35.74,20,B,714.8
+"August 15, 2019",HSBC,35.74,30,B,1072.2
+"August 28, 2019",Beyond Meat,158.28,2,B,316.56
+"September 25, 2019",Nasdaq,101.82,25,B,2545.5
+"October 24, 2019",Twitter,30.57,15,B,458.55
+"November 5, 2019",Amazon,1804.05,1,B,1804.05
+"November 20, 2019",Vanguard Total Stock Market ETF,158.47,14,B,2218.58
+"November 27, 2019",PagerDuty,25.87,3,S,77.61
+"November 27, 2019",JD,32.71,6,S,196.26
+"November 27, 2019",Vanguard Total Stock Market ETF,160.45,6,B,962.7
+"December 4, 2019",Vanguard FTSE Emerging Markets Fund,42.29,30,B,1268.7
